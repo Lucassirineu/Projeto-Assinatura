@@ -21,23 +21,31 @@ body {
     height: 100vh;
 }
 
-.container__caixa {
+.container_caixa {
     margin: 0 6em;
 
 }
 
-.container__titulo {
+.container_titulo {
     font-size: 28px;
     font-weight: 700;
 }
 
-.container__imagem {
+.descricao__texto {
+    color: var(--cinza-secundario);
+}
+
+.imagem_segunda_section {
+    width: 80%;
+}
+
+.container_imagem {
     margin: 1em 0 2em 0;
     width: 40%;
     height: auto;
 }
 
-.container__botao {
+.container_botao {
     background-color: var(--botao-azul);
     border-radius: 5px;
     padding: 1em;
@@ -52,9 +60,20 @@ body {
     border: 2px solid var(--branco-principal)
 }
 
-.container__aviso {
+.container_aviso {
     font-size: 12px;
     color: var(--cinza-secundario);
+}
+
+.container_descricao {
+    padding: 2em;
+}
+
+.descricao_titulo {
+    font-weight: 700;
+    font-size: 48px;
+    color: var(--branco-principal);
+    margin-bottom: 0.1em;
 }
 
 .principal {
@@ -63,4 +82,9 @@ body {
     background-size: contain;
     align-items: center;
     text-align: center;
+}
+
+.secundario {
+    text-align: center;
+    margin: 0 10em;
 }
