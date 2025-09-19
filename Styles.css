@@ -104,3 +104,8 @@ body {
     list-style-type: none;
     margin: 5em 0;
 }
+
+.rodape {
+    text-align: center;
+    margin: 5em 3em;
+}
