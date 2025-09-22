@@ -129,11 +129,17 @@ body {
         background-image: none;
     }
 
-    .container_imagem {
+    .container_imagem,
+    .secundario_imagem {
         width: 50vw;
     }
 
-    .container__caixa {
+    .container_caixa {
         margin: 2em 2em;
+    }
+
+    .secundario {
+        margin: 0;
+        text-align: center;
     }
 }
