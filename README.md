@@ -1,11 +1,12 @@
-🎯 Projeto Assinatura
 
-📖 Descrição
+# 🎯 Projeto Assinatura
+
+## 📖 Descrição
 
 O Projeto Assinatura foi desenvolvido durante o curso da Balta.io.
 Ele permite gerenciar assinaturas de usuários de forma simples e visual, com interface amigável e design responsivo usando HTML e CSS.
 
-⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 🎨 Visualização de planos de assinatura
 
@@ -15,7 +16,7 @@ Ele permite gerenciar assinaturas de usuários de forma simples e visual, com in
 
 🗂 Estrutura organizada para fácil manutenção
 
-🛠 Tecnologias
+## 🛠 Tecnologias
 
 HTML5
 
