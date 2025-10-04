@@ -7,10 +7,10 @@ Ele permite gerenciar assinaturas de usuários de forma simples e visual, com in
 
 ## ⚙️ Funcionalidades
 
-📝 Visualização de planos de assinatura  
-🖊️ Cadastro de assinaturas (simulação)  
-📱 Interface responsiva e atraente  
-🗂️ Estrutura organizada para fácil manutenção
+- 📝 Visualização de planos de assinatura  
+- 🖊️ Cadastro de assinaturas (simulação)  
+- 📱 Interface responsiva e atraente  
+- 🗂️ Estrutura organizada para fácil manutenção
 
 ## ⚒️ Tecnologias
 
